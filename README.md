@@ -12,12 +12,9 @@
 ##
 
 
-<header> 
-            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          </header>
-<div>
-   <a href="GustavoFirmino"> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GustavoFirmino&theme=react&line_height=40&hide=css"/> </a>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoFirmino&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoFirmino&layout=compact)](https://github.com/GustavoFirmino/github-readme-stats)
 
  ## My Languages
 <div>
