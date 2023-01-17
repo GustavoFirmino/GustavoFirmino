@@ -16,9 +16,7 @@
             <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           </header>
 <div>
-  <a href="https://github.com/GustavoFirmino">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoFirmino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoFirmino&layout=compact&langs_count=16&theme=dracula"/>
+   <a href="GustavoFirmino"> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GustavoFirmino&theme=react&line_height=40&hide=css"/> </a>
 </div>
 
  ## My Languages
