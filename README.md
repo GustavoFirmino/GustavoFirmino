@@ -1,9 +1,9 @@
 ### Olá, sou Gustavo Pessoa Firmino!
 
 
-- 🔭 Não estou trabalhando no momento
+- 🔭 Estagiando na Câmara Municipal de Nova Lima.
 - 🌱 Graduando em Ciências da Computação pela PUC MINAS
-- 👯 Em busca de um estágio para crescimento profissional e pessoal.
+- 👯 Em busca de crescimento profissional e pessoal.
 - 📫 Me contate pelo email: gustavopessoa00719@gmail.com
 - 😄 Pronome: Ele/Dele
 - ⚡ Curiosidades: Estou estudando várias matérias por fora da faculdade e estou adorando aprender!
