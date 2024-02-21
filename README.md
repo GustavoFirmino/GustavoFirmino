@@ -1,12 +1,12 @@
 ### Olá, sou Gustavo Pessoa Firmino!
 
 
-- 🔭 Estagiando na Câmara Municipal de Nova Lima.
-- 🌱 Graduando em Ciências da Computação pela PUC MINAS
+- 🔭 Estagiando na ArcelorMittal Sistemas em belo Horizonte.
+- 🌱 Graduando em Engenharia de Software pela PUC MINAS
 - 👯 Em busca de crescimento profissional e pessoal.
 - 📫 Me contate pelo email: gustavopessoa00719@gmail.com
 - 😄 Pronome: Ele/Dele
-- ⚡ Curiosidades: Estou estudando várias matérias por fora da faculdade e estou adorando aprender!
+- ⚡ Curiosidades: Estou em busca da área de trabalho que mais combina comigo, atualmente trabalhando com SAP-IBP
 
 
 ##
