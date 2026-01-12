@@ -1,4 +1,4 @@
-###Olá, eu sou Gustavo Pessoa Firmino! 👋
+### Olá, eu sou Gustavo Pessoa Firmino! 👋
 
 🔭 Estagiário em Application Support na ArcelorMittal Sistemas, atuando com SAP IBP, em Belo Horizonte.
 
