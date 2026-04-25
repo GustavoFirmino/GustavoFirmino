@@ -22,7 +22,7 @@ Desenvolvedor em formação pela **PUC Minas**, com experiência profissional em
 
 - 🎓 Graduando em **Engenharia de Software** — PUC Minas
 - 💼 Dev Júnior @ **Grupo ROI** — Loot & ROI Club
-- 🏭 Ex-estagiário @ **ArcelorMittal**
+- 🏭 Ex-estagiário @ **ArcelorMittal** e **Câmara Municipal de BH**
 - 🚀 Stack principal: **React · TypeScript · Java + Spring Boot**
 - 🍎 Experiência mobile: **Swift (iOS)** — programa Hack a Truck/IBM
 - 🌍 Portfólio: [portifolio-rho-beige-65.vercel.app](https://portifolio-rho-beige-65.vercel.app/)
