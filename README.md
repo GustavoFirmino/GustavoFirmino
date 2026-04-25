@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://portifolio-rho-beige-65.vercel.app/" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6E40C9&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+Gustavo+Firmino+%F0%9F%91%8B;Desenvolvedor+Fullstack;Estudante+de+Eng.+de+Software+%E2%80%94+PUC+Minas;React+%7C+TypeScript+%7C+Java+%2B+Spring+Boot" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6E40C9&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+Gustavo+Firmino+%F0%9F%91%8B;Desenvolvedor+Junior+%E2%80%94+Grupo+ROI;Estudante+de+Eng.+de+Software+%E2%80%94+PUC+Minas;React+%7C+TypeScript+%7C+Java+%2B+Spring+Boot" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -18,14 +18,16 @@
 
 ## 👨‍💻 Sobre mim
 
-Desenvolvedor em formação pela **PUC Minas**, com experiência prática em projetos fullstack e vivência em sistemas corporativos de alta complexidade. Busco unir a base teórica da engenharia de software com as melhores práticas do mercado.
+Desenvolvedor em formação pela **PUC Minas**, com experiência profissional em sistemas corporativos de alta complexidade. Atualmente atuo como desenvolvedor júnior no **Grupo ROI**, onde contribuo com os produtos **Loot** e **ROI Club**. Busco unir a base teórica da engenharia de software com as melhores práticas do mercado.
 
 - 🎓 Graduando em **Engenharia de Software** — PUC Minas
-- 🔭 Em busca do meu **primeiro estágio**
+- 💼 Dev Júnior @ **Grupo ROI** — Loot & ROI Club
+- 🏭 Ex-estagiário @ **ArcelorMittal**
 - 🚀 Stack principal: **React · TypeScript · Java + Spring Boot**
 - 🍎 Experiência mobile: **Swift (iOS)** — programa Hack a Truck/IBM
 - 🌍 Portfólio: [portifolio-rho-beige-65.vercel.app](https://portifolio-rho-beige-65.vercel.app/)
 - 📍 Belo Horizonte, MG
+- 🔎 Aberto a **novas oportunidades**
 
 </td>
 <td width="45%" align="center" valign="top">
