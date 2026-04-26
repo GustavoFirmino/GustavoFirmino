@@ -156,6 +156,12 @@ Projetos iOS desenvolvidos no programa de capacitação Hack a Truck, iniciativa
   <img src="https://img.shields.io/badge/Portf%C3%B3lio-6E40C9?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
+<br/><br/>
+
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="gustavo-pessoa-205759239" data-version="v1">
+  <a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/gustavo-pessoa-205759239?trk=profile-badge">Gustavo Pessoa</a>
+</div>
+
 </div>
 
 ---
