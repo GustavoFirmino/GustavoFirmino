@@ -12,7 +12,7 @@
 
 ---
 
-<table>
+<table width="100%">
 <tr>
 <td width="55%" valign="top">
 
@@ -34,7 +34,7 @@ Desenvolvedor com foco em **React** e **Java**, graduando em Engenharia de Softw
 </td>
 <td width="45%" align="center" valign="top">
 
-<img src="https://raw.githubusercontent.com/GustavoFirmino/GustavoFirmino/output/github-metrics.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/GustavoFirmino/GustavoFirmino/output/github-metrics.svg" width="480"/>
 
 </td>
 </tr>
