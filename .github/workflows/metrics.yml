@@ -17,12 +17,16 @@ jobs:
     timeout-minutes: 15
     steps:
       # Card 1: general account stats (replaces github-readme-stats.vercel.app/api)
+      # base: header only -> short landscape strip (joined date, calendar, followers,
+      # contributed repos) instead of the tall 5-section default, so it sits well
+      # next to the languages/streak cards instead of needing its own column.
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_branch: output
           filename: github-metrics.svg
           config_timezone: America/Sao_Paulo
+          base: header
 
       # Card 2: top languages (replaces github-readme-stats.vercel.app/api/top-langs)
       - uses: lowlighter/metrics@latest

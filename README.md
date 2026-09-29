@@ -12,10 +12,6 @@
 
 ---
 
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
-
 ## 👨‍💻 Sobre mim
 
 Desenvolvedor com foco em **React** e **Java**, graduando em Engenharia de Software pela **PUC Minas**. Atualmente Desenvolvedor Frontend na **Olimpus**, construindo o Hermes / Olimpus Hub (ERP para vendedores da Amazon) em Next.js e React. Também desenvolvo com Java + Spring Boot em projetos como o sistema da **APAC Feminina**. Busco unir a base teórica da engenharia de software com as melhores práticas do mercado.
@@ -31,14 +27,9 @@ Desenvolvedor com foco em **React** e **Java**, graduando em Engenharia de Softw
 - 📍 Nova Lima, MG
 - 🔎 Aberto a **novas oportunidades**
 
-</td>
-<td width="45%" align="center" valign="top">
-
-<img src="https://raw.githubusercontent.com/GustavoFirmino/GustavoFirmino/output/github-metrics.svg" width="480"/>
-
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/GustavoFirmino/GustavoFirmino/output/github-metrics.svg" width="100%"/>
+</div>
 
 ---
 
