@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://portifolio-rho-beige-65.vercel.app/" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6E40C9&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+Gustavo+Firmino+%F0%9F%91%8B;Desenvolvedor+Junior+%E2%80%94+Grupo+ROI;Estudante+de+Eng.+de+Software+%E2%80%94+PUC+Minas;React+%7C+TypeScript+%7C+Java+%2B+Spring+Boot" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6E40C9&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+Gustavo+Firmino+%F0%9F%91%8B;Desenvolvedor+Frontend+%E2%80%94+Olimpus;Estudante+de+Eng.+de+Software+%E2%80%94+PUC+Minas;Java+%2B+Spring+Boot+%7C+React+%7C+Next.js" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -18,21 +18,23 @@
 
 ## 👨‍💻 Sobre mim
 
-Desenvolvedor em formação pela **PUC Minas**, com experiência profissional em sistemas corporativos de alta complexidade. Atualmente atuo como desenvolvedor júnior no **Grupo ROI**, onde contribuo com os produtos **Loot** e **ROI Club**. Busco unir a base teórica da engenharia de software com as melhores práticas do mercado.
+Desenvolvedor com foco em **React** e **Java**, graduando em Engenharia de Software pela **PUC Minas**. Atualmente Desenvolvedor Frontend na **Olimpus**, construindo o Hermes / Olimpus Hub (ERP para vendedores da Amazon) em Next.js e React. Também desenvolvo com Java + Spring Boot em projetos como o sistema da **APAC Feminina**. Busco unir a base teórica da engenharia de software com as melhores práticas do mercado.
 
 - 🎓 Graduando em **Engenharia de Software** — PUC Minas
-- 💼 Dev Júnior @ **Grupo ROI** — Loot & ROI Club
+- 💼 Desenvolvedor Frontend @ **Olimpus** — Hermes / Olimpus Hub
+- 💊 Desenvolvedor Fullstack (projeto) @ **Agência Experimental de Software** — APAC Feminina
+- 🚀 Ex-Dev Júnior @ **Grupo ROI** — Loot & ROI Club
 - 🏭 Ex-estagiário @ **ArcelorMittal** e **Câmara Municipal de Nova Lima**
-- 🚀 Stack principal: **React · TypeScript · Java + Spring Boot**
+- 🧰 Stack principal: **Java + Spring Boot · React · Next.js · TypeScript**
 - 🍎 Experiência mobile: **Swift (iOS)** — programa Hack a Truck/IBM
 - 🌍 Portfólio: [portifolio-rho-beige-65.vercel.app](https://portifolio-rho-beige-65.vercel.app/)
-- 📍 Belo Horizonte, MG
+- 📍 Nova Lima, MG
 - 🔎 Aberto a **novas oportunidades**
 
 </td>
 <td width="45%" align="center" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=GustavoFirmino&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="100%"/>
+<img src="https://raw.githubusercontent.com/GustavoFirmino/GustavoFirmino/output/github-metrics.svg" width="100%"/>
 
 </td>
 </tr>
@@ -46,6 +48,68 @@ Desenvolvedor em formação pela **PUC Minas**, com experiência profissional em
 <tr>
 <td width="50%" valign="top">
 
+### 🤖 VIQLO — ERP de Criação de Conteúdo com IA
+
+Produto SaaS completo ("do prompt ao viral"): frontend em Next.js 14 + shadcn/ui e API em NestJS + Prisma, com PostgreSQL (Supabase) e Redis (Upstash). Repositórios privados (web + api).
+
+![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=flat&logo=next.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 💊 APAC Feminina
+
+Sistema de gestão de estoque farmacêutico e acompanhamento clínico de pacientes, na Agência Experimental de Software. Arquitetura em camadas, RBAC e frontend em Next.js, construído em Scrum.
+
+![Java](https://img.shields.io/badge/Java_26-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_4-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏦 [ICEIBank](https://github.com/GustavoFirmino/ICEIBank)
+
+Banco simplificado dividido em agências, para aplicar conceitos de Sistemas Distribuídos: relógio lógico de Lamport, partição de contas, transferências entre agências e autenticação JWT.
+
+![Java](https://img.shields.io/badge/Java_17-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏪 GL Consultoria
+
+Produto próprio: sites e plaquinhas com QR Code/NFC para comércio local, com modelos por segmento e ferramentas de automação para geração de artes e publicação.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+
+**[🌐 Ver ao vivo](https://gl-consultoria.vercel.app)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💰 [Sistema Moeda Estudantil](https://github.com/GustavoFirmino/sistema-moeda-estudantil)
+
+Plataforma com Java 21 + Spring Boot 3 para gestão de moedas virtuais entre instituições, professores, alunos e empresas parceiras.
+
+![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
 ### 🏰 [Portfólio Profissional](https://github.com/GustavoFirmino/Portifolio)
 
 Portfólio interativo com temática medieval, animações 3D de abertura de livro, internacionalização PT/EN e ambient sound.
@@ -56,17 +120,6 @@ Portfólio interativo com temática medieval, animações 3D de abertura de livr
 ![Framer](https://img.shields.io/badge/Framer_Motion-black?style=flat&logo=framer&logoColor=white)
 
 **[🌐 Ver ao vivo](https://portifolio-rho-beige-65.vercel.app/)**
-
-</td>
-<td width="50%" valign="top">
-
-### 💰 [Sistema Moeda Estudantil](https://github.com/GustavoFirmino/sistema-moeda-estudantil)
-
-Plataforma com Java 21 + Spring Boot 3 para gestão de moedas virtuais entre instituições, professores, alunos e empresas parceiras.
-
-![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 </td>
 </tr>
@@ -130,12 +183,12 @@ Projetos iOS desenvolvidos no programa de capacitação Hack a Truck, iniciativa
 ## 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoFirmino&layout=compact&theme=tokyonight&hide_border=true" height="155"/>
+  <img src="https://raw.githubusercontent.com/GustavoFirmino/GustavoFirmino/output/github-metrics-languages.svg" height="155"/>
   <img src="https://streak-stats.demolab.com?user=GustavoFirmino&theme=tokyonight&hide_border=true" height="155"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GustavoFirmino&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=4" />
+  <img src="https://raw.githubusercontent.com/GustavoFirmino/GustavoFirmino/output/github-metrics-achievements.svg" />
 </div>
 
 ---
