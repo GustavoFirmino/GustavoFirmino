@@ -28,7 +28,7 @@ Desenvolvedor com foco em **React** e **Java**, graduando em Engenharia de Softw
 - 🔎 Aberto a **novas oportunidades**
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/GustavoFirmino/GustavoFirmino/output/github-metrics.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/GustavoFirmino/GustavoFirmino/output/github-metrics.svg"/>
 </div>
 
 ---
